@@ -7,6 +7,5 @@
 
 ![menu desktop open](menu-desktop-open.png?raw=true "menu desktop open")
 
-![menu mobile](menu-mobile.png?raw=true "menu mobile") 
-
-![menu mobile open](menu-mobile-open.png?raw=true "menu mobile open")
+<img align="left" src="menu-mobile.png">
+<img align="right" src="menu-mobile-open.png">
